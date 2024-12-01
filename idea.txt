@@ -1,0 +1,2 @@
+Project Name: NexusAuction
+Tagline: Your Gateway to AI-Driven, Cross-Chain Gaming Auctions.
